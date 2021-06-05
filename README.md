@@ -8,6 +8,6 @@ Grâce au langage de programmation Python et à ses packages dédiés à l'analy
 Ipyleaflet est un package qui permet de faire une cartographie en ligne
 
 ## Le Webmapping
-La cartographie, grâce aux nouvelles technologies, est devenue aujourd'hui dynamique.
+La cartographie, grâce aux nouvelles technologies, est devenue aujourd'hui dynamique. Elle facilite l'exploration des données spatiales.
 
  
